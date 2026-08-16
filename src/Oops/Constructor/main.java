@@ -22,6 +22,5 @@ public class main {
         student1.study();
         student2.study();
 
-
     }
 }
